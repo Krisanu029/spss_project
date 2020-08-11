@@ -13,5 +13,5 @@ These are:
   4. One-way Anova ( finding the impact of different demographic attributes on overall satisfaction of different brands)
   
   
-  ![Test image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSPSS&psig=AOvVaw3al0a9hfhanHNMj-RtCTRN&ust=1597216971531000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjgy4PPkusCFQAAAAAdAAAAABAD)
+  ![Test image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/SPSS_logo.svg/500px-SPSS_logo.svg.png)
   
