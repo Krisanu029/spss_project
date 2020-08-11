@@ -1,7 +1,7 @@
 # spss_project
 # Project on Performance of Cell operators for Pre-paid connection users across different urban and rural areas in oridsha
 
-Different statistical and market Research techiques are used in this project.
+Different statistical and market Research techniques are used in this project.
 
 These are:
   1. Regression analysis (finding independent variables based on dependent variable overall performance)
