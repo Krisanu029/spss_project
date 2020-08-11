@@ -1,4 +1,4 @@
-# spss
+# spss_project
 # Project on Performance of Cell operators for Pre-paid connection users across different urban and rural areas in oridsha
 
 Different statistical and market Research techiques are used in this project.
